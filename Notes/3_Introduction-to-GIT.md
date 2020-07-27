@@ -46,7 +46,7 @@ Now, pushing the committed changes into your remote repository is essentially re
 
 Therefore, simply put, the **Remote Repo** is a common repository that all team members use to collaborate on their changes.
 
-![The Git Workflow](/assignments/summary/assets/git-workflow.jpg)
+![The Git Workflow](/Notes/assets/git-workflow.jpg)
 
 #### Cloning an existing repository
 

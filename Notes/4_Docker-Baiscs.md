@@ -25,7 +25,7 @@ Docker makes this a lot easier. Typically, these containers are light-weight and
 
 ## The Docker Workflow: Basics
 
-![Docker Workflow](/assignments/summary/assets/docker-intro.png)
+![Docker Workflow](/Notes/assets/docker-intro.png)
 
 #### View all containers running on Docker's host
 
